@@ -13,7 +13,7 @@ Adiciona todos os arquivos e pastas modificados, ao stage area
 git add .
 
 
-Restaura para o ponto anteiror do stage area
+Restaura para o ponto anteiror do stage area (Se você quiser)
 
 git restore nome_do_arquivo
 
