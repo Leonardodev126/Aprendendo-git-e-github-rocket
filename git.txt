@@ -30,6 +30,10 @@ git log
 
 
 
+Voltando para o commit anteiror
+
+git checkout id_do_commit
+
 
 Atualizando
 
