@@ -40,3 +40,13 @@ Atualizando
 
 
 Fazendo alterações
+
+
+Puxa modificações do repositório remoto para o repositório local
+
+git pull
+
+
+Envia as modificações locais para o repositório remoto
+
+git push
